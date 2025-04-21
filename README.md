@@ -135,11 +135,11 @@ void loop() {
 
 ```
 # CIRCUIT DIAGRAM:
-![alt text](<PIOT temp circuit.jpeg>)
-# OUTPUT:
+![PIOT temp circuit](https://github.com/user-attachments/assets/eb03e02c-9fb2-47e1-ad24-8d08bcc8d977)
 
-![alt text](<Screenshot 2025-04-12 111530.png>)
+# OUTPUT:
 ![Screenshot 2025-04-19 150018](https://github.com/user-attachments/assets/f9fb2dc4-e5dd-4f56-bbe2-d77e78adcf38)
+![Screenshot 2025-04-12 111530](https://github.com/user-attachments/assets/0053782c-7017-4a81-bff0-75ac7b28ba04)
 
 # RESULT:
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
